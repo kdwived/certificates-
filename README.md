@@ -1,2 +1,19 @@
-# certificates-
-A showcase of official certificates and achievements earned by Niranjan Dwivedi in content design, technology, and digital skills.
+## Certifications
+
+### Content Designer Certificate (Image)
+![Content Designer Certificate](Content-Designer_Niranjan.jpg)
+
+### Sales Management Certificate (PDF)
+[Sales-Management_Niranjan.pdf](Sales-Management_Niranjan.pdf)
+
+### Facebook Business Manager Certificate (PDF)
+[Facebook_Bussiness_mamanger.pdf](Facebook_Bussiness_mamanger.pdf)
+
+### General Niranjan Dwivedi Certificate (PDF)
+[Niranjan-Dwivedi.pdf](Niranjan-Dwivedi.pdf)
+
+### Social Media Marketing Certificate (PDF)
+[Social_Media_Marketing_Niranjan.pdf](Social_Media_Marketing_Niranjan.pdf)
+
+### Python Certificate (PDF)
+[Python_Niranjan.pdf](Python_Niranjan.pdf)
